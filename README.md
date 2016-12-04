@@ -35,7 +35,7 @@ B.Fungsionalitas
 
 10.Mencari kapasitas terbanyak pada Mentor tertentu.
 
-11.Mencari kapasitas tedikit pada Mentor tertentu.
+11.Mencari kapasitas terdikit pada Mentor tertentu.
 
 12.Mencari total kapasitas pada Mentor tertentu.
 
