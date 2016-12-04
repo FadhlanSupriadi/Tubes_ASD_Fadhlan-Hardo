@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1480816565 source:d:\data\tel-u\tugas\(asd) algoritma dan struktur data\tubes\tubes asd\tubesasd06\list.cpp
+	<iostream>
+	"list.h"
+
+1480817829 d:\data\tel-u\tugas\(asd) algoritma dan struktur data\tubes\tubes asd\tubesasd06\list.h
+	<iostream>
+	<conio.h>
+	<string>
+
+1480817623 source:d:\data\tel-u\tugas\(asd) algoritma dan struktur data\tubes\tubes asd\tubesasd06\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"list.h"
+
